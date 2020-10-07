@@ -8,4 +8,8 @@ public interface TestInterface {
     static void demo2(){
         System.out.println("static method defined inside interface");
     }
+
+
+
+    //void show();
 }
