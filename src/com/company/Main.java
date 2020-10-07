@@ -4,8 +4,10 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
+        //test branch1
         TestInterface t=new testClass();
-        t.show();
+        testClass a=new testClass();
+        a.display();
         t.demo1();
         TestInterface.demo2();
     }
