@@ -1,7 +1,7 @@
 package com.company;
 
 public interface TestInterface {
-    void show();
+    //void show();
     default void demo1(){
         System.out.println("default method defined inside interface");
     }
