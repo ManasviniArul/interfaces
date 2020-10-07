@@ -5,4 +5,7 @@ public class testClass implements TestInterface {
         System.out.println("method declared in interface and defined in test class");
     }
 
+    public String display() {
+        return "hii";
+    }
 }
